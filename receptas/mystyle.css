@@ -1,0 +1,67 @@
+body{
+	background-color: #ffffcc;
+}
+h1, h2{
+	text-align: center;
+        color: White;
+        font-size: 50px;
+        font-family:"Courier New", Courier, monospace;
+		background-color: maroon;
+}
+p{
+	color:black;
+	
+}
+.tekstas1{
+	text-align: center;
+	font-size: 30px;
+}
+table, td{
+		border: 1px solid black;
+		border-radius: 3px;
+	}
+td{
+		width: 33%;
+	}
+table{
+		margin:auto;
+		width: 90%;
+	}
+.langelis{
+	vertical-align: middle;
+		text-align: center;
+}
+.nuotrauka{
+	width: 100%;
+}
+.nuotrauka2{
+	width:33%;
+	height:40%;
+}
+a:hover{
+		font-size: 150%;
+		color: Maroon;
+	}
+a:link{
+		text-decoration: none;
+		color: Black;
+		font-family:"Courier New", Courier, monospace;
+	}
+a:visited{
+	color: black;
+}
+.receptas{
+	background-color: white;
+	font-size:40px;
+	font-family:"Courier New", Courier, monospace;
+}
+#vardas{
+	font-size: 15px;
+	font-family:"Courier New", Courier, monospace;
+	color: maroon;
+}
+.reptekst{
+	font-size: 18px;
+	color: black;
+	font-family:"Courier New", Courier, monospace;
+}
