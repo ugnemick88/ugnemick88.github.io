@@ -1,0 +1,199 @@
+body {
+    margin: 0;   
+	background-image: url("beatles1.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.pagrindastitulinis {
+	margin: auto;
+	width: 60%;
+	background-color: rgb(17, 18, 19);
+	margin-top: 50%;
+	margin-bottom: 10%;
+	padding: 20px 30px;
+	position: relative;
+}
+.pagrindas {
+	margin: auto;
+	width: 60%;
+	background-color: rgb(17, 18, 19);
+	margin-top: 5%;
+	margin-bottom: 10%;
+	padding: 20px 30px;
+	position: relative;
+}
+.kortele{
+	width: 90%;
+	height:30%;
+	background-color: rgb(39, 41, 44);
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 20px 30px;
+}
+.korteleapie{
+	width: 90%;
+	height:40%;
+	background-color: rgb(39, 41, 44);
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 20px 30px;
+}
+.korteleistorija{
+	width: 90%;
+	height: 610%;
+	background-color: rgb(39, 41, 44);
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 20px 30px;
+}
+.kortelealbumai{
+	width: 90%;
+	height: 315%;
+	background-color: rgb(39, 41, 44);
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 20px 30px;
+}
+.kortelebeatlemania{
+	width: 90%;
+	height: 90%;
+	background-color: rgb(39, 41, 44);
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 20px 30px;
+}
+.fotok{
+	height: 100%;
+	float: left;
+}
+.foto{
+	height: 100%;
+	float:left;
+}
+.fotostraip{
+	width: 40%;
+	float: left;
+	padding-top: 40px;
+	margin-left: 30px;
+}
+.fotosalb{
+	width: 100%;
+	float: center;
+}
+.fotostraipalb{
+	width: 40%;
+	float: left;
+	padding-top: 20px;
+	margin-left: 30px;
+	clear: left;
+}
+.fotostraipalbinfo{
+	width: 40%;
+	float: left;
+	padding-top: 20px;
+	margin-left: 30px;
+	clear: right;
+}
+.fotos{
+	width: 100%;
+	float: center;
+}
+.tekstaspav{
+	float:right;
+	color:white;
+	font-size: 30px;
+	font-family: "Lucida Console", Monaco, monospace;
+	width: 50%;
+	text-align: right;
+}
+.tekstaspav a{
+	text-decoration: none;
+}
+.tekstas{
+	float:right;
+	color:white;
+	font-size: 15px;
+	font-family: "Lucida Console", Monaco, monospace;
+	clear: right;
+	margin-top: 30px;
+	width: 50%;
+	text-align: right;
+}
+.tekstasstraipsniai{
+	float:right;
+	color:white;
+	font-size: 15px;
+	font-family: "Lucida Console", Monaco, monospace;
+	clear: right;
+	margin-top: 30px;
+}
+.tekstasfoto{
+	float:left;
+	clear:left;
+	color:white;
+	font-size: 15px;
+	font-family: "Lucida Console", Monaco, monospace;
+	clear: right;
+	margin-top: 30px;
+}
+.tekstas a{
+	text-decoration: none;
+}
+.data{
+	color:white;
+	font-size:10px;
+	font-family: "Lucida Console", Monaco, monospace;
+	float:right;
+	margin-top: 10px;
+}
+.menu {
+    background-color: rgb(17, 18, 19);
+    height: 49px;
+    width: 100%;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+  
+  }
+.mygtukai{
+    float: left;
+}
+.mygtukai:last-child{
+    float: right;
+}
+.mygtukai a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 16px 16px;
+	color: #f2f2f2;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+.mygtukai a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.mygtukai a.active{
+    background-color: rgb(87, 19, 19);
+    color: white;
+}
+.atgal{
+	font-size: 12px;
+	color: white;
+	font-family: "Lucida Console", Monaco, monospace;
+	text-decoration: none;
+}
+.video{
+	margin-left: 55px;
+	margin-bottom: 20px;
+}
+ 
